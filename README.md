@@ -3,13 +3,6 @@
 </h1> 
 
 A stable telegram bot to get restricted messages with custom thumbnail support. 
-
-Made by: Mahesh Chauhan
-
-<p><a href="https://t.me/MaheshChauhan"> <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" width="100""/></a></p>
-
-<p><a href="https://t.me/TeamDrone"> <img src="https://img.shields.io/badge/Support-white?style=for-the-badge&logo=telegram&logoColor=blue" width="100""/></a></p>
-  
 # Variables
 
 - `API_ID`
