@@ -6,7 +6,7 @@
         "telegram",
         "bot"
     ],
-    "repository": "https://github.com/SamAgd/SaveRestrictedContentBot",
+    "repository": "https://github.com/TheCaduceus/Restricted-Data-Fetcher-Bot",
     "website": "",
     "success_url": "",
     "env": {
